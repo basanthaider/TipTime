@@ -14,3 +14,9 @@ A simple tip calculator app built as part of the Android Basics in Kotlin course
 - Calculates the tip based on selected percentage (15%, 20%, or 18%)
 - Displays the calculated tip amount
 - Optional rounding of the tip amount
+
+  # App Snapshots
+  ![image alt](IMG-20240807-WA0009.jpg)
+  ![image alt](IMG-20240807-WA0008.jpg)
+
+  
